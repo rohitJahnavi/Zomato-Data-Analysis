@@ -1,0 +1,6 @@
+1. what types of restaurants do the majority of customers orders form ?
+2. How many votes has each type of restaurants received form customers ?
+3. What are the ratings that the majority of restaurants have received  ?
+4. Zomato has observed that couples order most of their food online. What is their average spending on each order ?
+5. Which mode has received the maximum rating ?
+6. Which type of restaurants received more offline order, so that Zomato can provided customers with some good offers ?
